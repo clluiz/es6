@@ -1,0 +1,10 @@
+var myString = 'abc';
+var myBoolean = false;
+var myNumber = 10.5;
+var myArray = ['A', 'B'];
+var myTuple = ['1', 2];
+console.log(myString);
+console.log(myBoolean);
+console.log(myNumber);
+console.log(myArray);
+console.log(myTuple);
